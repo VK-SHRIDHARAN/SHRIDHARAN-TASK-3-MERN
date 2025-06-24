@@ -1,0 +1,4 @@
+23:06:2025	23:14:23	56e20ea4-5c01-41f7-8c41-10d6759aa9f4	Error: ENOENT: no such file or directory, stat 'D:\University\Mern stack\Task 3\view\404.html'
+23:06:2025	23:35:01	91cb3645-0785-4a9a-b070-73a3c1ccc710	Error: ENOENT: no such file or directory, stat 'D:\University\Mern stack\Task 3\routes\views\index.html'
+23:06:2025	23:35:03	0f061e7d-c133-41a1-9d28-2f767acb334d	Error: ENOENT: no such file or directory, stat 'D:\University\Mern stack\Task 3\routes\views\index.html'
+24:06:2025	15:21:36	7db31067-9b80-42c6-bea0-f9fb0994c930	Error: data and hash must be strings
